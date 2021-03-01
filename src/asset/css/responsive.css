@@ -1,0 +1,193 @@
+
+@media (max-width: 575.98px) {
+    .topTitle{
+        font-size: 32px;
+        /*width: 355px;*/
+        /*margin-right: 200px;*/
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .insideDiv{
+        margin-left: 0px;
+    }
+    .summaryBannerOverlay{
+        position: initial;
+    }
+    .summaryCard{
+        margin-bottom: 5%;
+    }
+    .projectCard{
+        margin-bottom: 7%;
+    }
+    .CoursesTitle{
+        margin-top: 4%;
+    }
+    .FooterTitle{
+        margin-top: 6%;
+    }
+    .service-card{
+        margin-top: 5%;
+    }
+    .para-description{
+        margin-top: 4%;
+    }
+    .discuss{
+        margin-top: 7%;
+    }
+    .topAboutTitle{
+        margin-left: 0px;
+    }
+    .longtext{
+        font-size: 20px;
+    }
+    .newtext{
+        font-size: 12px;
+    }
+    .longdes{
+        font-size: 13px;
+    }
+    .couserlink{
+        margin-bottom: 4%;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .topTitle{
+        font-size: 32px;
+        /*width: 355px;*/
+        /*margin-right: 200px;*/
+        margin-right: auto;
+        margin-left: 10%;
+    }
+    .insideDiv{
+        margin-left: 0px;
+    }
+    .topSubTitle{
+        margin-left: 10%;
+    }
+    .more{
+        margin-left: 10%;
+    }
+    .summaryBannerOverlay{
+        position: initial;
+    }
+    .service-card{
+        margin-bottom: 6%;
+    }
+    .para-description{
+        margin-top: 5%;
+    }
+    .summaryCard{
+        margin-bottom: 5%;
+    }
+    .projectCard{
+        margin-bottom: 7%;
+    }
+    .CoursesTitle{
+        margin-top: 4%;
+    }
+    .FooterTitle{
+        margin-top: 6%;
+    }
+    .topAboutTitle{
+        margin-left: 20px;
+    }
+    .longtext{
+        font-size: 20px;
+    }
+    .newtext{
+        font-size: 12px;
+    }
+    .longdes{
+        font-size: 13px;
+    }
+    .couserlink{
+        margin-bottom: 4%;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .topTitle{
+        font-size: 35px;
+        /*width: 355px;*/
+        /*margin-right: 200px;*/
+        margin-right: auto;
+        margin-left: 10%;
+    }
+    .insideDiv{
+        margin-left: 0px;
+    }
+    .topSubTitle{
+        margin-left: 10%;
+    }
+    .more{
+        margin-left: 10%;
+    }
+    .para-description{
+        margin-top: 5%;
+    }
+    .summaryBannerOverlay{
+        position: initial;
+    }
+    .summaryCard{
+        margin-bottom: 5%;
+    }
+    .projectCard{
+        margin-bottom: 7%;
+    }
+    .FooterTitle{
+        margin-top: 7%;
+    }
+    .topAboutTitle{
+        margin-left: 0px;
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .topTitle{
+        font-size: 40px;
+        /*width: 355px;*/
+        /*margin-right: 200px;*/
+        margin-right: auto;
+        margin-left: 0%;
+    }
+    .insideDiv{
+        margin-left: 0px;
+    }
+    .topSubTitle{
+        margin-left: 0%;
+    }
+    .more{
+        margin-left: 0%;
+    }
+    .topAboutTitle{
+        margin-left: 0px;
+    }
+
+}
+
+
+@media (min-width: 1200px) {
+
+    .topTitle{
+        font-size: 40px;
+        /*width: 355px;*/
+        /*margin-right: 200px;*/
+        margin-right: auto;
+        margin-left: 0%;
+    }
+    .insideDiv{
+        margin-left: 160px;
+    }
+
+    .topAboutTitle{
+        margin-left: 0px;
+    }
+}
